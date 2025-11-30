@@ -13,3 +13,6 @@ motions/
 artifacts/
 .venv/
 render_robots.py
+
+# Exclude macOS folder attributes
+.DS_Store
